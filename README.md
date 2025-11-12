@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Rutuja Khopade  
+💻 **Full Stack Developer** | Passionate about clean, modern web experiences  
 
-<!--
-**9373052814/9373052814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🔭 Currently working on my portfolio & smart IoT-based energy control project  
+- 🌱 Learning **React, Node.js, MongoDB**  
+- 💬 Ask me about **web development** and **IoT projects**  
+- 📫 Reach me at: rutujakhopade1412@gmail.com
+- ⚡ Fun fact: I love creating smart tech solutions that make life easier  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+**Backend:** java  
+**Database:** MySQL  
+**Tools:** VS Code, Eclipse  
+
+---
+
+### 🚀 Featured Projects
+- Kaptain Kitty[https://delicate-alfajores-279205.netlify.app/]
+- The Band [https://rad-baklava-02028c.netlify.app/]
+- Weather App [https://polite-starship-9eb65d.netlify.app/]
+- Expenses Tracker[https://meek-starlight-0592d0.netlify.app/]
+- Image Gallery [https://stupendous-melba-e130ae.netlify.app/]
+- Portfolio[]
+
+---
+
+### 📈 GitHub Stats
+![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=9373052814&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/9373052814)
